@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,37 +7,38 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Vikas Pandey
+    tagline: Senior DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: vikaspa6@gmail.com
+    phone: 
+    website: vikiscripts.github.io #do not add http://
+    linkedin: vikaspa
+    github: hclpandv
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: vikiscripts
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-        
+      - idiom: Norwegian
+        level: Learner
+
     interests:
-      - item: Climbing
+      - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Playing Wind Intruments
         link:
 
       - item: Cooking
@@ -46,18 +47,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
+      A Passionate DevOps Engineer, Automation and Scripting SME. Looking for 
+      Challenging career ahead.
+      You can [download this free resume/CV template here]().
+      
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech. in Electronics and Communications Engineering
+      university: UP Technical University
+      time: 2002 - 2006
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,7 +65,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -79,7 +78,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -97,7 +96,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -177,23 +176,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Ansible
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Vagrant
         level: 98%
 
-      - name: Angular
+      - name: Docker
+        level: 60%
+
+      - name: Powershell Scripting
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Bash Scripting
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Jenkins
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
