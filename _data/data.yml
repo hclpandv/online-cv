@@ -69,48 +69,32 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior DevOps Engineer
+      time: Feb 2019 - Present
+      company: Sage Publications India Pvt. Ltd., New Delhi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Part of multi-geography DevOps Team. Designing developement infrastructure
+        Using Vagrant and Docker. Writing and maintaining all infrastructure 
+        orchestration and provisioning procedures using anisble, bash, 
+        python, powershell etc. 
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical SME (Automation and Scripting)
+      time: March 2017 - Feb 2019
+      company: IBM India Pvt. Ltd., Noida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Part of multiple agile squads for design and development of Infrastructure
+        Orchestration and provisioning. writing deployment procedures for production 
+        applications being deployed or migrated on cloud datacenters. Designed and developed 
+        various scripting and automation projects to automate manual processes.
+        
+    - role: Associate Consultant
+      time: Dec 2011 - Mar 2017
+      company: HCL technologies Pvt. Ltd., Noida, India | HCL Technologies Norway AS., Stavanger, Norway
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Part of a shared services organization, Lead a team of Application migration
+        Scripting and deployment team. Worked with multiple International clients both
+        onsite and offshore   
+   
 
 projects:
     title: Projects
