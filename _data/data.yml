@@ -47,12 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Passionate DevOps Engineer, Automation and Scripting SME. Looking for 
-      Challenging career ahead.
-      You can [download this free resume/CV template here]().
-      
-      Second paragraph if required.
+      12+ Years of hands on experience in IT Infrastructure Services 
+      and currently focusing on Infrastructure as a Code. 
+      Passionate about Automation, Orchestration and Infrastructure Provisioning
+      and related areas of DevOps Engineering.
 
+      Looking for a Challenging career ahead.
+      You can [download this resume/CV]().
+    
 education:
     - degree: B.Tech. in Electronics and Communications Engineering
       university: UP Technical University
