@@ -74,8 +74,8 @@ experiences:
       company: Sage Publications India Pvt. Ltd., New Delhi
       details: |
         Part of multi-geography DevOps Team. Designing developement infrastructure
-        Using Vagrant and Docker. Writing and maintaining all infrastructure 
-        orchestration and provisioning procedures using anisble, bash, 
+        using Vagrant and Docker. Writing and maintaining all infrastructure 
+        orchestration and provisioning procedures using ansible, bash, 
         python, powershell etc. 
 
     - role: Technical SME (Automation and Scripting)
