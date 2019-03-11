@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -93,7 +93,19 @@ experiences:
       details: |
         Part of a shared services organization, Lead a team of Application migration
         Scripting and deployment team. Worked with multiple International clients both
-        onsite and offshore   
+        onsite and offshore  
+    - role: Sr.Systems Engineer
+      time: May 2009 - Dec 2011
+      company: BA Continuum India Pvt Ltd. (a nonbank subsidiary of Bank of America), Gurgaon, India
+      details: |
+        Part of Global Infrastruture Design and Build Team, resposible for application re-packaging
+        and deployment of all vendor and in house applications. 
+    - role: Specialist Systems
+      time: Jan 2007 - Apr 2009
+      company: HCL Comnet systems and services pvt. Ltd., Noida  
+      details: |
+        Part of Remote IT Infrastructure Support team, resposible for supporting customers with 
+        Active Directory, Exchange server etc using incidents, requests and other support tickets.    
    
 
 projects:
