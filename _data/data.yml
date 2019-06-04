@@ -168,23 +168,16 @@ skills:
       - name: Docker
         level: 60%
 
-      - name: Powershell Scripting 
+      - name: Scripting PowerShell/Bash/Python
         level: 98%
 
-      - name: Bash Scripting
+      - name: Linux System Adminstration
         level: 85%
         
-      - name: Python Scripting
-        level: 70%
-        
-      - name: Linux system administration
-        level: 70%
-       
-      - name: Windows system administration
-        level: 70%
-        
+      - name: Windows System Adminstration
+        level: 70%        
+   
       - name: Jenkins
         level: 40%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
