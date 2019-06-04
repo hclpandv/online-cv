@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: vikaspa6@gmail.com
-    phone: 
+    phone: +91 9871714197
     website: vikiscripts.github.io #do not add http://
     linkedin: vikaspa
     github: hclpandv
@@ -168,13 +168,19 @@ skills:
       - name: Docker
         level: 60%
 
-      - name: Powershell Scripting
+      - name: Powershell Scripting 
         level: 98%
 
       - name: Bash Scripting
         level: 85%
         
       - name: Python Scripting
+        level: 70%
+        
+      - name: Linux system administration
+        level: 70%
+       
+      - name: Wdindows system administration
         level: 70%
         
       - name: Jenkins
