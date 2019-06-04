@@ -177,7 +177,7 @@ skills:
       - name: Windows System Adminstration
         level: 75%        
    
-      - name: Jenkins
-        level: 40%
+      - name: CI/CD AzureDevOps,Jenkins
+        level: 50%
 
 
