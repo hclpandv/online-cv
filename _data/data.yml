@@ -172,10 +172,10 @@ skills:
         level: 98%
 
       - name: Linux System Adminstration
-        level: 85%
+        level: 75%
         
       - name: Windows System Adminstration
-        level: 70%        
+        level: 75%        
    
       - name: Jenkins
         level: 40%
