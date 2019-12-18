@@ -165,10 +165,10 @@ skills:
       - name: Ansible
         level: 98%
 
-      - name: Vagrant
-        level: 98%
-
       - name: Docker
+        level: 60%
+
+      - name: Cloud Infrastructure Management (Azure/AWS)
         level: 60%
 
       - name: Scripting PowerShell/Bash/Python
@@ -180,7 +180,7 @@ skills:
       - name: Windows System Adminstration
         level: 75%        
    
-      - name: CI/CD AzureDevOps,Jenkins
+      - name: CI/CD AzureDevOps, Bitbucket, Jenkins
         level: 50%
 
 
