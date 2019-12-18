@@ -75,7 +75,9 @@ experiences:
       details: |
         Part of multi-geography DevOps Team. Designing developement infrastructure using 
         Vagrant and Docker. Writing and maintaining all infrastructure orchestration and
-        provisioning procedures using ansible, bash, python, powershell etc. 
+        provisioning procedures using ansible, bash, python, powershell, Azure ARM Templates etc.
+        CI/CD Pipelines using Azure DevOps, Bitbucket etc 
+        Managing various services in Azure and AWS cloud. (Compute, RDS, SES etc)
       
     - role: Technical SME (Automation and Scripting)
       time: March 2017 - Feb 2019
@@ -83,8 +85,9 @@ experiences:
       details: |
         Part of multiple agile squads for design and development of Infrastructure
         Orchestration and provisioning. writing deployment procedures for production 
-        applications being deployed or migrated on cloud datacenters. Designed and developed 
-        various scripting and automation projects to automate manual processes.
+        applications being deployed or migrated on cloud datacenters. 
+        Designed and developed various orchestration templates (Azure ARM, Heat )
+        Designed and developed various scripting and automation projects to automate manual processes.
         
     - role: Associate Consultant
       time: Dec 2011 - Mar 2017
