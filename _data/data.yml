@@ -54,7 +54,7 @@ career-profile:
 
       Looking for a Challenging career ahead.
       You can [download this resume/CV](https://url-to-pdf-api.herokuapp.com/api/render?url=http://hclpandv.github.io/online-cv/&pdf.format=a2). 
-      online resume: https://hclpandv.github.io/online-cv/ (Source code of this resume is kept in a git repo and pdf copy is automatically created via a REST api webhook)
+      online resume: https://hclpandv.github.io/online-cv/ (source code of this resume is kept in a git repo and pdf copy is automatically created via a REST api webhook)
       
 education:
     - degree: B.Tech. in Electronics and Communications Engineering
