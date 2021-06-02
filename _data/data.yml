@@ -34,23 +34,23 @@ sidebar:
       - idiom: Norwegian
         level: Learner
 
-    interests:
-      - item: Travelling
-        link:
+    Certificates:
+      - item: Microsoft Certified: Azure Administrator Associate
+        link: https://www.youracclaim.com/badges/d80f15cf-9795-4b2a-bcc4-ab613cb4fe97
 
-      - item: Playing Wind Intruments
-        link:
+      - item: Microsoft Certified: DevOps Engineer Expert
+        link: https://www.credly.com/badges/7bb5c3f4-3c75-4cf8-a9ab-10bf25b07f4d
 
-      - item: Cooking
-        link:
+      - item: AZ-300 Microsoft Azure Architect Technologies
+        link: https://www.youracclaim.com/badges/fa6efbc2-efca-426b-bc9d-f21838c20feb
 
 career-profile:
     title: Career Profile
     summary: |
-      12+ Years of hands on experience in IT Infrastructure Services 
-      and currently focusing on Infrastructure as a Code. 
-      Passionate about Automation, Orchestration and Infrastructure Provisioning
-      and related areas of DevOps Engineering.
+      14+ Years of hands on experience in IT Infrastructure Services 
+      and currently focusing on Microsoft Azure cloud design, architacture and 
+      DevOps engineering. Passionate about Automation, Orchestration 
+      and Infrastructure Design and Provisioning.
 
       Looking for a Challenging career ahead.
       You can [download this resume/CV](https://url-to-pdf-api.herokuapp.com/api/render?url=http://hclpandv.github.io/online-cv/&pdf.format=a2). 
@@ -71,12 +71,19 @@ education:
           - Bullet point
 
 experiences:
+    - role: Lead Expert - Azure Cloud and DevOps
+      time: Feb 2019 - Mar 2020
+      company: Delaware Consulting Malaysia Sdn. Bhd., Kuala Lumpur
+      details: |
+        Part of multi-geography Azure Consulting Team responsible for Designing and developing Cloud 
+        infrastructure hosted on Azure. Migrating applicaions from On-Prem, AWS/others to Azure.
+        Develop and maintain ARM/Terraform templates. 
+        
     - role: Senior DevOps Engineer
-      time: Feb 2019 - Present
+      time: Feb 2019 - Mar 2020
       company: Sage Publications India Pvt. Ltd., New Delhi
       details: |
-        Part of multi-geography DevOps Team. Designing developement infrastructure using 
-        Vagrant and Docker. Writing and maintaining all infrastructure orchestration and
+        Part of multi-geography DevOps Team. Develope and maintain all infrastructure orchestration and
         provisioning procedures using ansible, bash, python, powershell, Azure ARM Templates etc.
         CI/CD Pipelines using Azure DevOps, Bitbucket etc 
         Managing various services in Azure and AWS cloud. (Compute, RDS, SES etc)
@@ -164,25 +171,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Ansible
-        level: 98%
-
-      - name: Docker
-        level: 60%
-
-      - name: Cloud Infrastructure Management (Azure/AWS)
-        level: 60%
-
+      - name: Azure Cloud Architecture and Design
+        level: 90%
+      
+      - name: Azure ARM Templates
+        level: 90%
+        
+      - name: Azure DevOps
+        level: 80%
+     
+      - name: Terraform
+        level: 70%
+        
       - name: Scripting PowerShell/Bash/Python
         level: 98%
-
-      - name: Linux System Adminstration
-        level: 75%
         
-      - name: Windows System Adminstration
-        level: 75%        
-   
-      - name: CI/CD AzureDevOps, Bitbucket, Jenkins
-        level: 50%
-
+      - name: Ansible
+        level: 60%
+      
+      - name: Docker
+        level: 60%
 
