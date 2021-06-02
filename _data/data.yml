@@ -35,14 +35,14 @@ sidebar:
         level: Learner
 
     interests:
-      - item: Microsoft Certified: Azure Administrator Associate
-        link: #https://www.youracclaim.com/badges/d80f15cf-9795-4b2a-bcc4-ab613cb4fe97
+      - item: Microsoft Certified Azure Administrator Associate
+        link: https://www.youracclaim.com/badges/d80f15cf-9795-4b2a-bcc4-ab613cb4fe97
 
-      - item: Microsoft Certified: DevOps Engineer Expert
-        link: #https://www.credly.com/badges/7bb5c3f4-3c75-4cf8-a9ab-10bf25b07f4d
+      - item: Microsoft Certified DevOps Engineer Expert
+        link: https://www.credly.com/badges/7bb5c3f4-3c75-4cf8-a9ab-10bf25b07f4d
 
       - item: AZ-300 Microsoft Azure Architect Technologies
-        link: #https://www.youracclaim.com/badges/fa6efbc2-efca-426b-bc9d-f21838c20feb
+        link: https://www.youracclaim.com/badges/fa6efbc2-efca-426b-bc9d-f21838c20feb
 
 career-profile:
     title: Career Profile
