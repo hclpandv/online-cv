@@ -44,14 +44,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14+ Years of hands on experience in IT Infrastructure Services 
+      15+ Years of hands on experience in IT Infrastructure Services 
       and currently focusing on Microsoft Azure cloud design, architacture and 
       DevOps engineering. Passionate about Automation, Orchestration 
       and Infrastructure Design and Provisioning. 
       
       Performed Various roles including DevOps/Cloud/Automation Lead, Manager, Architect.
-      Looking for a Challenging career ahead.
-      online resume: https://hclpandv.github.io/online-cv/ (source code of this resume is kept in a git repo and pdf copy is automatically created via a REST api webhook)
+      Looking for a Challenging career ahead. online resume: https://hclpandv.github.io/online-cv/ 
       
 education:
     - degree: B.Tech. in Electronics and Communications Engineering
@@ -68,6 +67,13 @@ education:
           - Bullet point
 
 experiences:
+    - role: Manager - Cloud COE Automation
+      time: Mar 2020 - Mar 2022
+      company: AIA Shared Services Sdn. Bhd., Kuala Lumpur
+      details: |
+        Leading Cloud Automation team responsible for various Cloud Automation projects within Cloud Centre of Excellence team.
+        Design and development of AIA cloud automation platform which enables a self service cloud provisioning system.  
+        
     - role: Lead Expert - Azure Cloud and DevOps
       time: Mar 2020 - Mar 2022
       company: Delaware Consulting Malaysia Sdn. Bhd., Kuala Lumpur
