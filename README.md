@@ -1,3 +1,3 @@
-## also:
+# Vikas CV in Latex
 
-Login to [Overlief](https://www.overleaf.com/) and find my resume
+Originally compiled on Overleaf then moved as backup and further development

@@ -1,0 +1,168 @@
+%%%%%%%%%%%%%%%%%
+% This is an example CV created using altacv.cls (v1.1.4, 27 July 2018) written by
+% LianTze Lim (liantze@gmail.com), based on the
+% Cv created by BusinessInsider at http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/?r=US&IR=T
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% If you want to use \orcid or the
+%% academicons icons, add "academicons"
+%% to the \documentclass options.
+%% Then compile with XeLaTeX or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper]{altacv}
+
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages.
+%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols.
+%% When using the "academicons" option,
+%% Compile with LuaLaTeX for best results. If you
+%% want to use XeLaTeX, you may need to install
+%% Academicons.ttf in your operating system's font %% folder.
+
+
+% Change the page layout if you need to
+\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1cm,bottom=1cm}
+
+% Change the font if you want to.
+
+% If using pdflatex:
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[default]{lato}
+
+% If using xelatex or lualatex:
+% \setmainfont{Lato}
+
+% Change the colours if you want to
+\definecolor{VividPurple}{HTML}{008080}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{heading}{VividPurple}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% sample.bib contains your publications
+\addbibresource{sample.bib}
+
+\begin{document}
+\name{Vikas Pandey}
+\tagline{Cloud architecture | Infrastructure As Code | DevOps}
+% Cropped to square from https://en.wikipedia.org/wiki/Marissa_Mayer#/media/File:Marissa_Mayer_May_2014_(cropped).jpg, CC-BY 2.0
+\photo{2.5cm}{profile_pic}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \email{vikas110@gmail.com}
+  \phone{+47 90765013}
+  \location{Oslo , Norway}
+  \homepage{https://vikitravels.github.io}
+  \github{github.com/hclpandv}
+  \linkedin{www.linkedin.com/in/vikaspa}
+%   \github{github.com/mmayer} % I'm just making this up though.
+%   \orcid{orcid.org/0000-0000-0000-0000} % Obviously making this up too. If you want to use this field (and also other academicons symbols), add "academicons" option to \documentclass{altacv}
+}
+
+%% Make the header extend all the way to the right, if you want.
+\begin{fullwidth}
+\makecvheader
+\end{fullwidth}
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+\AtBeginEnvironment{itemize}{\small}
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+
+\cvsection[page1sidebar]{Experience}
+\cvevent{Cloud Solutions Architect}{EMP Secure Norway AS}{Mar 2024 - Present}{Oslo, Norway}
+\begin{itemize}
+\item Serving as a Cloud Solutions Architect in the Cloud Services team, delivering tailored Azure solutions to multiple enterprise clients across Norway.
+\item Leading automation and infrastructure design projects, leveraging Terraform to deploy Azure services such as AKS, App Services, and Logic Apps.
+\item Contributing to the development of a robust cloud automation framework to accelerate client onboarding and streamline provisioning workflows.
+\end{itemize}
+\vspace{.2cm}
+\cvevent{Manager - Cloud Services (Automation)}{AIA IT Sdn. Bhd.}{Mar 2022 - Mar 2024}{Kuala Lumpur, Malaysia}
+\begin{itemize}
+\item Currently leading a team, overseeing diverse Cloud Automation projects as the Cloud Automation Lead within the esteemed Cloud Centre of Excellence.
+\item Proficient in architecting innovative solutions, leveraging Terraform to orchestrate the deployment of Azure services, including Kubernetes (k8s) clusters, Azure App Service, Logic Apps and more. This approach streamlines and enhances cloud infrastructure provisioning.
+\item Actively involved in designing and developing the AIA Cloud Automation Platform, a sophisticated solution empowering seamless self-service cloud provisioning.
+\end{itemize}
+\vspace{.2cm}
+\cvevent{Lead Expert - Azure Cloud and DevOps}{Delaware Consulting Malaysia Sdn. Bhd.}{Mar 2020 - Mar 2022}{Kuala Lumpur, Malaysia}
+\begin{itemize}
+\item Led and managed a multi-geography Azure Consulting Team responsible for designing and developing Cloud infrastructure hosted on Azure.
+\item Oversaw the migration of applications from On-Prem, AWS, and other platforms to Azure.
+\item Developed and maintained ARM/Terraform/Ansible templates and playbooks.
+\end{itemize}
+\vspace{.2cm}
+\cvevent{Senior DevOps Engineer}{Sage Publications India Pvt. Ltd.}{Feb 2019 - Mar 2020}{New Delhi , India}
+\begin{itemize}
+\item Contributed to a multi-geography DevOps Team, developing and maintaining infrastructure orchestration and provisioning procedures (Ansible, Bash, Python, PowerShell, Azure ARM Templates).
+\item Established and managed efficient CI/CD pipelines (Azure DevOps, Bitbucket).
+\item Managed diverse services across Azure and AWS cloud (Compute, RDS etc.).
+\end{itemize}
+\vspace{.2cm}
+\cvevent{Technical SME - Automation and Scripting}{IBM India Pvt. Ltd.}{Mar 2017 -  Feb 2019 }{Noida, India}
+\begin{itemize}
+\item Integral part of multiple agile squads for designing and developing Infrastructure Orchestration and provisioning.
+\item Crafted deployment procedures for production applications migration or deployment on cloud datacenters. Streamlined operational workflows via scripting and process automation.
+\item Designed and developed diverse orchestration templates (Azure ARM, Heat).
+
+\end{itemize}
+\cvsection[page2sidebar]{Experience }
+\vspace{.2cm}
+\cvevent{Associate Consultant}{HCL Technologies Pvt. Ltd. | HCL Technologies Norway AS}{Dec 2011 - Mar 2017}{Noida, India | Stavanger, Norway}
+\begin{itemize}
+\item Led and managed an offshore team (20+) specializing in application migration scripting, packaging, and deployment.
+\item Operated within a shared services organization, collaborating with various international clients both onsite and offshore.
+\end{itemize}
+
+% \newpage
+
+% \divider
+
+% \cvevent{Product Engineer}{Google}{23 June 1999 -- 2001}{Palo Alto, CA}
+
+% \begin{itemize}
+% \item Joined the company as employe \#20 and female employee \#1
+% \item Developed targeted advertisement in order to use user's search queries and show them related ads
+% \end{itemize}
+
+%\cvsection[page2sidebar]{Experience }
+\cvevent{ Senior Systems Engineer }{BA Continuum India Pvt Ltd. (a subsidiary of Bank of America)}{May 2009 - Dec 2011}{Gurgaon, India}
+\begin{itemize}
+\item Integral member of the Global Infrastructure Design and Build Team, specializing in application re-packaging and deployment of both vendor and in-house applications.
+\end{itemize}
+
+\vspace{.2cm}
+
+\cvevent{ Specialist Systems }{HCL Comnet systems and services pvt. Ltd.}{Jan 2007 - Apr 2019}{Noida, India}
+\begin{itemize}
+\item Valuable member of the Remote IT Infrastructure Support team, providing expert support to customers for active directory, exchange server, and related services using incidents, requests, and support tickets.
+\end{itemize}
+
+
+\clearpage
+
+
+\end{document}
